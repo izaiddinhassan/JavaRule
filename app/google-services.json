@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1049960362734",
+    "firebase_url": "https://javarule-32f48.firebaseio.com",
+    "project_id": "javarule-32f48",
+    "storage_bucket": "javarule-32f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049960362734:android:7c756fd675d79092",
+        "android_client_info": {
+          "package_name": "com.basikal.javarule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049960362734-nuh3l980du8u6qe9u41rjfbn5c2upbb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAisAq1bJZ6bIVpPQvCa_X_QmN70XBGgd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
